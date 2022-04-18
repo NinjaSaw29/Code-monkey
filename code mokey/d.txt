@@ -1,0 +1,4 @@
+CODE MONKEY DOCMENTS
+functions
+runcode(1)
+playNarration()
